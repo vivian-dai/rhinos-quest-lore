@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Racket the Javan Rhinoceros"
+date:   2023-10-15 03:21:59 -0400
+categories: jekyll update
+---
+# Racket the Javan Rhinocerous
+![](https://media.discordapp.net/attachments/1158765973671780464/1162590781849223188/Untitled_Artwork_3.png?ex=653c7e0a&is=652a090a&hm=4d9cfe1833aeefdd00c69d29a2d5c9bfb521294c92ae708ebb8dc9f4cd5c318d)  
+Above is a picture of Racket, our [Javan Rhinocerous](https://www.worldwildlife.org/species/javan-rhino) who is the main character or our game.
+## Why a Javan Rhinocerous?
+We chose to make the main character a Javan Rhinocerous for two reasons:
+1. This is an endangered species and it would bring awareness
+1. The name has the word "Java" in it
+## Why Racket?
+Well, CS students and Racket are clearly common enemies. Also there is nice alliteration.
